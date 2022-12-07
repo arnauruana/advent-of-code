@@ -1,0 +1,15 @@
+# ============================ Visual Studio Code ============================ #
+
+# general
+.vscode/*
+!.vscode/*.code-snippets
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# local history
+.history/
+
+# built extensions
+*.vsix
