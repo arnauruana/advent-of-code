@@ -1,0 +1,4 @@
+{
+    "editor.rulers": [80],
+    "window.title": "${dirty} Advent of Code @ ${activeEditorMedium}"
+}
